@@ -1,4 +1,4 @@
-# learn locations
+Learn locations
 ==========================================================================================
 
 This is a start for me to touch skilearn! This package has been made super powerful!
