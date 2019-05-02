@@ -15,6 +15,9 @@ I will update this later for beginners in skilearn and basic machine learning to
 References
 
 [1]. Nguyen, Khuong An. ”A performance guaranteed indoor positioning system using conformal prediction and the WiFi signal strength.” Journal of Information and Telecommunication 1.1 (2017): 41-65.
+
 [2]. Akram, Beenish A., Ali H. Akbar, and Omair Shafiq. ”HybLoc: Hybrid indoor Wi-Fi localization using soft clustering-based random decision forest en- sembles.” IEEE Access 6 (2018): 38251-38272.
+
 [3]. Caroline Katba, ”Predicting Indoor Location Using WiFi Fingerprinting, by https://katba-caroline.com/predicting-indoor-location-using-wifi-fingerprinting/, March 27, 2019.
+
 [4]. Torres-Sospedra, Joaqun, et al. ”UJIIndoorLoc: A new multi-building and multi-floor database for WLAN fingerprint-based indoor localization problems.” 2014 international conference on indoor positioning and indoor navigation (IPIN). IEEE, 2014.
